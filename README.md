@@ -6,4 +6,7 @@ This repository contains an overview and some metadata over the corpora we are u
 
 Extracted from the TextGrid repository. Dates have been added through extraction from the [DLINA corpus](https://github.com/dlina/project).
 
-Overview table: tg.csv
+- Overview table: `tg.csv`
+- Collection prefix: `tg`
+- URL to preprocessed files: http://www2.ims.uni-stuttgart.de/gcl/reiterns/quadrama/tg.zip
+
