@@ -8,5 +8,5 @@ Extracted from the TextGrid repository. Dates have been added through extraction
 
 - Overview table: `tg.csv`
 - Collection prefix: `tg`
-- URL to preprocessed files: http://www2.ims.uni-stuttgart.de/gcl/reiterns/quadrama/tg.zip
+- URL to preprocessed files: http://www2.ims.uni-stuttgart.de/gcl/reiterns/quadrama/res/tg.zip
 
