@@ -8,7 +8,7 @@ Extracted from the TextGrid repository. Dates have been added through extraction
 
 - Overview table: [`tg.csv`](tg.csv)
 - Collection prefix: `tg`
-- URL to preprocessed files: http://www2.ims.uni-stuttgart.de/gcl/reiterns/quadrama/res/tg.zip
+- URL to preprocessed XMI files: http://www2.ims.uni-stuttgart.de/gcl/reiterns/quadrama/res/tg.zip
 
 Installation (in the R console with loaded [DramaAnalysis](quadrama/DramaAnalysis) package):
 ```R
