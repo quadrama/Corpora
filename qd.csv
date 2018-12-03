@@ -1,10 +1,9 @@
 corpus,drama,documentTitle,language,Name,Pnd,Translator.Name,Translator.Pnd,Date.Written,Date.Printed,Date.Premiere,Date.Translation
-qd,109,"August Stramm: Das Werk. Herausgegeben von René Radrizzani, Wiesbaden: Limes, 1963.",de,"Stramm, August",118618830,,,1914,1915,0,0
-qd,11d11.0,Faust. Der Tragödie zweiter Teil,de,"Goethe, Johann Wolfgang",,,,1831,1832,1854,0
 qd,11d2m.0,Torquato Tasso,de,"Goethe, Johann Wolfgang",118540238,,,1788,1790,1807,0
+qd,11d11.0,Faust. Der Tragödie zweiter Teil,de,"Goethe, Johann Wolfgang",,,,1831,1832,1854,0
+qd,11f9k.0,Der Bürgergeneral,de,"Goethe, Johann Wolfgang",118540238,,,1793,1793,1793,0
 qd,11f78.0,Iphigenie auf Tauris,de,"Goethe, Johann Wolfgang",118540238,,,1786,1787,1800,0
 qd,11f81.0,Clavigo,de,"Goethe, Johann Wolfgang",118540238,,,1774,1774,1774,0
-qd,11f9k.0,Der Bürgergeneral,de,"Goethe, Johann Wolfgang",118540238,,,1793,1793,1793,0
 qd,11fzp.0,Die Laune des Verliebten,de,"Goethe, Johann Wolfgang",118540238,,,1768,1806,1779,0
 qd,11g1d.0,Götz von Berlichingen mit der eisernen Hand,de,"Goethe, Johann Wolfgang",118540238,,,0,1773,0,0
 qd,11g3h.0,Die natürliche Tochter,de,"Goethe, Johann Wolfgang",,,,1803,1804,1803,0
@@ -18,7 +17,8 @@ qd,11h60.0,"Götter, Helden und Wieland",de,"Goethe, Johann Wolfgang",118540238,
 qd,11hb1.0,Die Mitschuldigen,de,"Goethe, Johann Wolfgang",118540238,,,1769,1909,1776,0
 qd,11hb5.0,Proserpina,de,"Goethe, Johann Wolfgang",118540238,,,1778,1778,1778,0
 qd,11hdv.0,Stella,de,"Goethe, Johann Wolfgang",118540238,,,1776,1776,1776,0
-qd,12675.0,Die Nase des Michelangelo,de,"Ball, Hugo",118506234,,,0,0,0,0
+qd,65,"Ludwig van Beethoven: Fidelio. Oper in zwei Aufzügen, hg. v. Wilhelm Zentner, Stuttgart: Reclam, 1970.",de,"Treitschke, Georg Friedrich",117409030,,,1814,0,1814,0
+qd,109,"August Stramm: Das Werk. Herausgegeben von René Radrizzani, Wiesbaden: Limes, 1963.",de,"Stramm, August",118618830,,,1914,1915,0,0
 qd,172,"Goethes Werke. Hamburger Ausgabe in 14 Bänden. Textkritisch durchgesehen und mit Anmerkungen versehen von Erich Trunz, Hamburg: Christian Wegener, 1948 ff. [Seitenkonkordanz zu einer Mischauflage aus den Jahren 1959 und 1960.]",de,"Goethe, Johann Wolfgang",,,,1806,1808,1829,0
 qd,175,"Carl Laufs: Pension Schöller. Nach einer Idee von W. Jacoby, elfte Auflage, Berlin: Eduard Bloch Theaterverlag, [o.J.].",de,"Jacoby, Wilhelm",117049239,,,0,1890,1890,0
 qd,183,"August Stramm: Das Werk. Herausgegeben von René Radrizzani, Wiesbaden: Limes, 1963.",de,"Stramm, August",118618830,,,1912,1914,1920,0
@@ -34,7 +34,7 @@ qd,388,"Arno Holz und Oskar Jerschke: Traumulus. Achtes bis zehntes Tausend, Dre
 qd,437,"Johann Friedrich Reichardt: Die Geisterinsel. Ein Singspiel in drey Akten, in: Friedrich Wilhelm Gotter: Literarischer Nachlass, Gotha: J. Perthes, 1802, S. 419–564.",de,"Einsiedel, Friedrich Hildebrand von",118681818,,,0,0,0,0
 qd,472,"Friedrich Schiller: Sämtliche Werke, Auf Grund der Originaldrucke herausgegeben von Gerhard Fricke und Herbert G. Göpfert in Verbindung mit Herbert Stubenrauch, Band 1–5, 3. Auflage, München: Hanser, 1962.",de,"Schiller, Friedrich",118607626,,,1778,0,1778,0
 qd,509,"August Stramm: Das Werk. Herausgegeben von René Radrizzani, Wiesbaden: Limes, 1963.",de,"Stramm, August",118618830,,,1912,1914,1918,0
-qd,65,"Ludwig van Beethoven: Fidelio. Oper in zwei Aufzügen, hg. v. Wilhelm Zentner, Stuttgart: Reclam, 1970.",de,"Treitschke, Georg Friedrich",117409030,,,1814,0,1814,0
+qd,12675.0,Die Nase des Michelangelo,de,"Ball, Hugo",118506234,,,0,0,0,0
 qd,jkhx.0,"Griechische Tragiker: Aischylos, Sophokles, Euripides. Hg. v. Wolf Hartmut Friedrich, übers. v. J. G. Droysen (Aischylos), K. W. F. Solger (Sophokles), J. A. Hartung (Euripides), München: Winkler, 1958.",de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
 qd,jkj1.0,"Griechische Tragiker: Aischylos, Sophokles, Euripides. Hg. v. Wolf Hartmut Friedrich, übers. v. J. G. Droysen (Aischylos), K. W. F. Solger (Sophokles), J. A. Hartung (Euripides), München: Winkler, 1958.",de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
 qd,jkj1.1,"Griechische Tragiker: Aischylos, Sophokles, Euripides. Hg. v. Wolf Hartmut Friedrich, übers. v. J. G. Droysen (Aischylos), K. W. F. Solger (Sophokles), J. A. Hartung (Euripides), München: Winkler, 1958.",de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
@@ -42,22 +42,22 @@ qd,jkj1.2,"Griechische Tragiker: Aischylos, Sophokles, Euripides. Hg. v. Wolf Ha
 qd,jkjb.0,Im Suff,de,"Alberti, Konrad",116009926,,,1890,1890,0,0
 qd,jkjf.0,Brot!,de,"Alberti, Konrad",116009926,,,1888,1888,0,0
 qd,jn5z.0,Das vierte Gebot,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
-qd,jn65.0,Der Meineidbauer,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn6f.0,Die Kreuzelschreiber,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn6k.0,Der Gwissenswurm,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn6r.0,Heimg'funden,de,"Anzengruber, Ludwig",11850357X,,,1885,1885,1885,0
+qd,jn65.0,Der Meineidbauer,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn73.0,Der Pfarrer von Kirchfeld,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,k1f7.0,"Aristophanes: Sämtliche Komödien. 2 Bände, übers. v. Ludwig Seeger, Zürich: Artemis-Verlag, 1952.",de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
 qd,k1fb.0,"Aristophanes: Sämtliche Komödien. 2 Bände, übers. v. Ludwig Seeger, Zürich: Artemis-Verlag, 1952.",de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
 qd,k1ff.0,"Aristophanes: Lysistrate, in: Sämtliche Komödien. Übertragen von Ludwig Seeger, 2. Band, Zürich: Lizenzausgabe Buchclub Ex Libris, [o.J.], S. 401–460.",de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
 qd,k4xx.0,Marino Caboga,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
-qd,k59h.0,Jerusalem,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
-qd,k77x.0,Halle,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
 qd,k7f7.0,Das Loch,de,"Arnim, Ludwig Achim von",118504177,,,1811,0,0,0
 qd,k8cn.0,Der Rauchfangkehrer,de,"Auenbrugger, Johann Leopold von",117668931,,,1781,0,0,0
-qd,k936.0,Faust,de,"Avenarius, Ferdinand",118651218,,,0,1919,0,0
+qd,k59h.0,Jerusalem,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
+qd,k77x.0,Halle,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
 qd,k93c.0,Virginia oder das abgeschaffte Decemvirat,de,"Ayrenhoff, Cornelius Hermann von",118869647,,,0,0,0,0
 qd,k93g.0,Der Postzug oder die noblen Passionen,de,"Ayrenhoff, Cornelius Hermann von",118869647,,,0,1769,0,0
+qd,k936.0,Faust,de,"Avenarius, Ferdinand",118651218,,,0,1919,0,0
 qd,kd4c.0,Die Bürger in Wien,de,"Bäuerle, Adolf",119560038,,,0,0,0,0
 qd,kd4g.0,Doktor Faust's Mantel,de,"Bäuerle, Adolf",119560038,,,0,1819,1817,0
 qd,kd4r.0,Industrie und Herz,de,"Bauernfeld, Eduard von",118507400,,,1841,1847,1842,0
@@ -95,8 +95,8 @@ qd,ksd1.0,Dantons Tod,de,"Büchner, Georg",118516906,,,1834,1835,1902,0
 qd,kssc.0,Der Trompeter von Säkkingen,de,"Bunge, Rudolf",117156302,,,0,1886,0,0
 qd,ktrm.0,Turandot,de,"Busoni, Ferruccio",118518011,,,0,0,0,0
 qd,kw8v.0,Euryanthe,de,"Chézy, Helmina von",119360659,,,0,0,0,0
-qd,m08h.0,Der Barbier von Bagdad,de,"Cornelius, Peter",118522213,,,0,0,0,0
 qd,m0br.0,Der Mißtrauische,de,"Cronegk, Johann Friedrich von",11852285X,,,0,1760,1766,0
+qd,m08h.0,Der Barbier von Bagdad,de,"Cornelius, Peter",118522213,,,0,0,0,0
 qd,m9xz.0,Die Menschenfreunde,de,"Dehmel, Richard Fedor Leopold",118679236,,,0,0,0,0
 qd,mbmn.0,Michel Michael,de,"Dehmel, Richard Fedor Leopold",118679236,,,1910,1911,1911,0
 qd,mgfk.0,Hans Heiling,de,"Devrient, Philipp Eduard",118525042,,,0,0,1833,0
@@ -114,14 +114,14 @@ qd,mvqs.0,Anna Iwanowna,de,"Ertler, Bruno",105488437,,,1919,1920,1920,0
 qd,mvr3.0,Der Frauenmut,de,"Essig, Hermann",118531212,,,1911,1912,1914,0
 qd,mvrf.0,Überteufel,de,"Essig, Hermann",118531212,,,1906,1912,1923,0
 qd,n0xc.0,Cili Cohrs,de,"Fock, Gorch",118691988,,,0,1914,0,0
-qd,n23j.0,Der Held des Nordens,de,"Fouqué, Friedrich de la Motte",104066512,,,0,1810,0,0
 qd,n2k7.0,Die Journalisten,de,"Freytag, Gustav",118535455,,,0,1854,1852,0
 qd,n2kq.0,Graf Waldemar,de,"Freytag, Gustav",118535455,,,1847,1850,1848,0
 qd,n3cn.0,Der Herrgottschnitzer von Ammergau,de,"Ganghofer, Ludwig",118537490,,,1880,0,0,0
 qd,n3dj.0,Jessonda,de,"Gehe, Eduard Heinrich",102522359,,,0,1836,1828,0
-qd,n750.0,Die zärtlichen Schwestern,de,"Gellert, Christian Fürchtegott",118538322,,,0,1747,1749,0
-qd,n79j.0,Die Betschwester,de,"Gellert, Christian Fürchtegott",118538322,,,0,1745,1745,0
 qd,n7rr.0,Der deutsche Hausvater oder die Familie,de,"Gemmingen-Hornberg, Otto Heinrich von",118716778,,,0,0,0,0
+qd,n23j.0,Der Held des Nordens,de,"Fouqué, Friedrich de la Motte",104066512,,,0,1810,0,0
+qd,n79j.0,Die Betschwester,de,"Gellert, Christian Fürchtegott",118538322,,,0,1745,1745,0
+qd,n750.0,Die zärtlichen Schwestern,de,"Gellert, Christian Fürchtegott",118538322,,,0,1747,1749,0
 qd,ndmr.0,Der Moloch,de,"Gerhäuser, Emil",11656640X,,,0,0,1906,0
 qd,nds0.0,Ugolino,de,"Gerstenberg, Heinrich Wilhelm von",118690949,,,0,1768,1769,0
 qd,ndtw.0,Evander und Alcimna,de,"Gessner, Salomon",118538969,,,1762,1762,0,0
@@ -132,9 +132,9 @@ qd,nkdq.0,Die Geisterinsel,de,"Gotter, Friedrich Wilhelm",118540939,,,0,0,0,0
 qd,nkdt.0,Der Dorfjahrmarkt,de,"Gotter, Friedrich Wilhelm",118540939,,,0,0,0,0
 qd,nks0.0,Der sterbende Cato,de,"Gottsched, Johann Christoph",118541013,,,1730,1732,1731,0
 qd,nkww.0,Atalanta oder die bezwungene Sprödigkeit,de,"Gottsched, Johann Christoph",118541013,,,0,1741,0,0
+qd,nm2b.0,Die Pietisterey im Fischbein-Rocke,de,"Gottsched, Luise Adelgunde Victorie",118696734,,,0,1736,0,0
 qd,nm24.0,Das Testament,de,"Gottsched, Luise Adelgunde Victorie",118696734,,,0,1745,0,0
 qd,nm27.0,Der Witzling,de,"Gottsched, Luise Adelgunde Victorie",118696734,,,0,1745,0,0
-qd,nm2b.0,Die Pietisterey im Fischbein-Rocke,de,"Gottsched, Luise Adelgunde Victorie",118696734,,,0,1736,0,0
 qd,nmfg.0,"Scherz, Satire, Ironie und tiefere Bedeutung",de,"Grabbe, Christian Dietrich",118541102,,,1822,0,0,0
 qd,nmfn.0,Napoleon oder Die hundert Tage,de,"Grabbe, Christian Dietrich",118541102,,,1830,1831,1868,0
 qd,nmfv.0,Hannibal,de,"Grabbe, Christian Dietrich",118541102,,,1835,1835,1918,0
@@ -182,21 +182,21 @@ qd,pmgg.0,Herodes und Mariamne,de,"Hebbel, Friedrich",118547445,,,0,0,0,0
 qd,pmj9.0,Gyges und sein Ring,de,"Hebbel, Friedrich",118547445,,,0,1856,1889,0
 qd,pmp3.0,Trauerspiel in Sizilien,de,"Hebbel, Friedrich",118547445,,,0,0,0,0
 qd,pmtc.0,Genoveva,de,"Hebbel, Friedrich",118547445,,,0,0,0,0
-qd,pn22.0,Siegfrieds Tod,de,"Hebbel, Friedrich",118547445,,,0,0,0,0
 qd,pn2n.0,Judith,de,"Hebbel, Friedrich",118547445,,,0,1841,1840,0
+qd,pn22.0,Siegfrieds Tod,de,"Hebbel, Friedrich",118547445,,,0,0,0,0
 qd,psxj.0,Almansor,de,"Heine, Heinrich",118548018,,,0,1821,1823,0
 qd,ptkw.0,William Ratcliff,de,"Heine, Heinrich",118548018,,,0,0,0,0
 qd,pvxf.0,Die Kinder Godunófs,de,"Heiseler, Henry von",118709933,,,1923,1929,1930,0
 qd,pvxk.0,Peter und Alexéj,de,"Heiseler, Henry von",118709933,,,0,0,0,0
 qd,pzj2.0,Die Teufelsmühle am Wienerberg,de,"Hensler, Karl Friedrich",119267659,,,0,0,1801,0
-qd,q41n.0,Don Juan's Ende,de,"Heyse, Paul",118550772,,,0,0,0,0
 qd,q4j5.0,Colberg,de,"Heyse, Paul",118550772,,,0,0,0,0
 qd,q5q1.0,"Der Mann nach der Uhr, oder der ordentliche Mann",de,"Hippel, Theodor Gottlieb von",11855137X,,,0,1765,1765,0
-qd,qd27.0,Der Tor und der Tod,de,"Hofmannsthal, Hugo von",118552759,,,1893,1894,1898,0
+qd,q41n.0,Don Juan's Ende,de,"Heyse, Paul",118550772,,,0,0,0,0
 qd,qd2g.0,Elektra,de,"Hofmannsthal, Hugo von",118552759,,,1903,1904,1903,0
 qd,qd3h.0,Ariadne auf Naxos,de,"Hofmannsthal, Hugo von",118552759,,,1911,0,0,0
-qd,qd46.0,Der Unbestechliche,de,"Hofmannsthal, Hugo von",118552759,,,0,0,0,0
 qd,qd6w.0,Der Schwierige,de,"Hofmannsthal, Hugo von",118552759,,,0,0,0,0
+qd,qd27.0,Der Tor und der Tod,de,"Hofmannsthal, Hugo von",118552759,,,1893,1894,1898,0
+qd,qd46.0,Der Unbestechliche,de,"Hofmannsthal, Hugo von",118552759,,,0,0,0,0
 qd,qdcq.0,Die Frau ohne Schatten,de,"Hofmannsthal, Hugo von",118552759,,,1915,1911,1911,0
 qd,qdhd.0,Der Tod des Tizian,de,"Hofmannsthal, Hugo von",118552759,,,1892,1901,1901,0
 qd,qdj2.0,Der Turm,de,"Hofmannsthal, Hugo von",118552759,,,1924,1924,1948,0
@@ -226,9 +226,9 @@ qd,qkp2.0,Merlin,de,"Immermann, Karl",118555553,,,1832,1832,0,0
 qd,qkp7.0,Das Gericht von St. Petersburg,de,"Immermann, Karl",118555553,,,0,1832,1835,0
 qd,qkps.0,Eudoxia,de,"Immermann, Karl",118555553,,,0,1832,1835,0
 qd,qkq1.0,"Andreas Hofer, der Sandwirt von Passeyer",de,"Immermann, Karl",118555553,,,1833,0,0,0
+qd,qn2w.0,Die Opferung,de,"Kaltneker, Hans",11855963X,,,0,0,0,0
 qd,qn26.0,Die Schule des Armen,de,"Kaiser, Friedrich",118874748,,,0,1848,1847,0
 qd,qn29.0,Stadt und Land,de,"Kaiser, Friedrich",118874748,,,0,0,0,0
-qd,qn2w.0,Die Opferung,de,"Kaltneker, Hans",11855963X,,,0,0,0,0
 qd,qn30.0,Das Bergwerk,de,"Kaltneker, Hans",11855963X,,,0,1921,0,0
 qd,qx5q.0,Der Freischütz,de,"Kind, Johann Friedrich",118885235,,,1820,0,1821,0
 qd,qxh9.0,Der Kreidekreis,de,Klabund,118562681,,,0,0,1925,0
@@ -238,17 +238,8 @@ qd,r0jz.0,Amphitryon,de,"Kleist, Heinrich von",118563076,,,1806,0,0,0
 qd,r0n2.0,Penthesilea,de,"Kleist, Heinrich von",118563076,,,1807,0,0,0
 qd,r0px.0,Die Familie Schroffenstein,de,"Kleist, Heinrich von",118563076,,,1802,1803,1804,0
 qd,r0sb.0,Der zerbrochene Krug,de,"Kleist, Heinrich von",118563076,,,1806,0,0,0
-qd,r10b.0,Prinz Friedrich von Homburg,de,"Kleist, Heinrich von",118563076,,,1810,0,0,0
-qd,r11m.0,Der auf den Parnass versetzte grüne Hut,de,"Klemm, Christian Gottlob",100303935,,,1767,1767,1767,0
-qd,r121.0,Faust. Ein Trauerspiel in fünf Acten,de,"Klingemann, August",118563300,,,0,0,1812,0
-qd,r12k.0,Sturm und Drang,de,"Klinger, Friedrich Maximilian",118563319,,,1776,0,0,0
-qd,r12v.0,Die Zwillinge,de,"Klinger, Friedrich Maximilian",118563319,,,0,1776,1776,0
-qd,r134.0,Die neue Arria,de,"Klinger, Friedrich Maximilian",118563319,,,0,0,0,0
-qd,r13g.0,Simsone Grisaldo,de,"Klinger, Friedrich Maximilian",118563319,,,0,0,0,0
 qd,r1hd.0,Hermanns Schlacht,de,"Klopstock, Friedrich Gottlieb",118563386,,,1767,1769,0,0
 qd,r1zm.0,Der Tod Adams,de,"Klopstock, Friedrich Gottlieb",118563386,,,1756,1757,0,0
-qd,r22j.0,Der Roaga,de,"Kobell, Franz von",116263431,,,0,0,0,0
-qd,r23w.0,Zriny,de,"Körner, Theodor",118713507,,,0,0,0,0
 qd,r2m4.0,Die deutschen Kleinstädter,de,"Kotzebue, August von",118565796,,,1806,0,0,0
 qd,r2m9.0,Der Wildschütz oder Die Stimme der Natur,de,"Kotzebue, August von",118565796,,,0,0,1842,0
 qd,r2mf.0,Menschenhaß und Reue,de,"Kotzebue, August von",118565796,,,0,0,0,0
@@ -257,6 +248,15 @@ qd,r2mn.0,Die Indianer in England,de,"Kotzebue, August von",118565796,,,1788,0,0
 qd,r2mv.0,Die beiden Klingsberg,de,"Kotzebue, August von",118565796,,,0,0,0,0
 qd,r2r7.0,Die Candidaten oder Die Mittel zu einem Amte zu gelangen,de,"Krüger, Johann Christian",118778080,,,0,1748,1747,0
 qd,r2rb.0,Die Geistlichen auf dem Lande,de,"Krüger, Johann Christian",118778080,,,0,1743,0,0
+qd,r10b.0,Prinz Friedrich von Homburg,de,"Kleist, Heinrich von",118563076,,,1810,0,0,0
+qd,r11m.0,Der auf den Parnass versetzte grüne Hut,de,"Klemm, Christian Gottlob",100303935,,,1767,1767,1767,0
+qd,r12k.0,Sturm und Drang,de,"Klinger, Friedrich Maximilian",118563319,,,1776,0,0,0
+qd,r12v.0,Die Zwillinge,de,"Klinger, Friedrich Maximilian",118563319,,,0,1776,1776,0
+qd,r13g.0,Simsone Grisaldo,de,"Klinger, Friedrich Maximilian",118563319,,,0,0,0,0
+qd,r22j.0,Der Roaga,de,"Kobell, Franz von",116263431,,,0,0,0,0
+qd,r23w.0,Zriny,de,"Körner, Theodor",118713507,,,0,0,0,0
+qd,r121.0,Faust. Ein Trauerspiel in fünf Acten,de,"Klingemann, August",118563300,,,0,0,1812,0
+qd,r134.0,Die neue Arria,de,"Klinger, Friedrich Maximilian",118563319,,,0,0,0,0
 qd,rdg3.0,Fierrabras,de,"Kupelwieser, Josef",134672275,,,1823,0,1897,0
 qd,rdgt.0,Prinzessin Pumphia,de,"Kurz, Joseph von",118725602,,,0,1767,0,0
 qd,rdhd.0,Salome,de,"Lachmann, Hedwig",119115441,,,1901,0,0,0
@@ -300,11 +300,11 @@ qd,s8bv.0,Der alte Bürger-Capitain,de,"Malß, Karl",119098911,,,0,1820,1821,0
 qd,s9j7.0,Babel und Bibel,de,"May, Karl",118818651,,,1906,1906,0,0
 qd,sc8m.0,Der lustige Fritz,de,"Meisl, Karl",119323915,,,0,0,0,0
 qd,sc8q.0,Orpheus und Euridice,de,"Meisl, Karl",119323915,,,0,0,0,0
-qd,sj68.0,Die Königin von Saba,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,0,0
 qd,sj6f.0,Das goldene Kreuz,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,0,0
 qd,sj6g.0,Die lustigen Weiber von Windsor,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,1849,0
 qd,sj6r.0,Krieg oder Frieden,de,"Moser, Gustav von",116937807,,,0,0,0,0
 qd,sj6v.0,Das Stiftungsfest,de,"Moser, Gustav von",116937807,,,0,0,0,0
+qd,sj68.0,Die Königin von Saba,de,"Mosenthal, Salomon Hermann von",101363184,,,0,0,0,0
 qd,sjhr.0,Judas. Ein Arbeiterdrama,de,"Mühsam, Erich",118584758,,,1920,1921,0,0
 qd,sjpt.0,Staatsräson. Ein Denkmal für Sacco und Vanzetti,de,"Mühsam, Erich",118584758,,,0,1928,1929,0
 qd,spd6.0,Golo und Genovefa,de,"Müller, Friedrich (Maler Müller)",118584871,,,1775,0,0,0
@@ -329,21 +329,21 @@ qd,sttf.0,Das Schäferfest oder Die Herbstfreude,de,"Neuber, Friederike Caroline
 qd,sv5m.0,Datterich,de,"Niebergall, Ernst Elias",118734776,,,0,1841,1862,0
 qd,swzc.0,Nero,de,"Panizza, Oskar",118739131,,,0,1898,0,0
 qd,swzz.0,Das Liebeskonzil,de,"Panizza, Oskar",118739131,,,0,1895,0,0
-qd,t25v.0,Lucie Woodvil,de,"Pfeil, Johann Gottlob Benjamin",115546456,,,0,1756,1756,0
 qd,t2z2.0,Die verhängnisvolle Gabel,de,"Platen, August von",118594869,,,1826,0,0,0
-qd,t337.0,Der romantische Ödipus,de,"Platen, August von",118594869,,,1828,1829,1855,0
 qd,t8tr.0,Die politische Wochenstube,de,"Prutz, Robert Eduard",11859687X,,,1845,0,0,0
-qd,t907.0,Der Hypochondrist,de,"Quistorp, Theodor Johann",100540856,,,0,1745,0,0
+qd,t9p7.0,Kritik und Antikritik,de,"Raupach, Ernst",100823548,,,0,0,0,0
+qd,t9ps.0,Lohengrin,de,"Wagner, Richard",118594117,,,1850,0,0,0
+qd,t25v.0,Lucie Woodvil,de,"Pfeil, Johann Gottlob Benjamin",115546456,,,0,1756,1756,0
 qd,t96n.0,Der Verschwender,de,"Raimund, Ferdinand",118597914,,,1834,1837,1834,0
 qd,t96r.0,Moisasurs Zauberfluch,de,"Raimund, Ferdinand",118597914,,,1827,0,0,0
 qd,t96s.0,Der Alpenkönig und der Menschenfeind,de,"Raimund, Ferdinand",118597914,,,1828,0,0,0
 qd,t96w.0,Die unheilbringende Zauberkrone,de,"Raimund, Ferdinand",118597914,,,1829,0,0,0
+qd,t97f.0,Die gefesselte Phantasie,de,"Raimund, Ferdinand",118597914,,,1826,0,0,0
+qd,t337.0,Der romantische Ödipus,de,"Platen, August von",118594869,,,1828,1829,1855,0
+qd,t907.0,Der Hypochondrist,de,"Quistorp, Theodor Johann",100540856,,,0,1745,0,0
 qd,t971.0,Der Diamant des Geisterkönigs,de,"Raimund, Ferdinand",118597914,,,1824,0,0,0
 qd,t976.0,Das Mädchen aus der Feenwelt oder Der Bauer als Millionär,de,"Raimund, Ferdinand",118597914,,,1826,0,0,0
 qd,t977.0,Der Barometermacher auf der Zauberinsel,de,"Raimund, Ferdinand",118597914,,,1823,0,0,0
-qd,t97f.0,Die gefesselte Phantasie,de,"Raimund, Ferdinand",118597914,,,1826,0,0,0
-qd,t9p7.0,Kritik und Antikritik,de,"Raupach, Ernst",100823548,,,0,0,0,0
-qd,t9ps.0,Lohengrin,de,"Wagner, Richard",118594117,,,1850,0,0,0
 qd,tbf2.0,Martha oder Der Markt zu Richmond,de,"Riese, Friedrich Wilhelm",,,,0,0,1847,0
 qd,tbqn.0,Ohne Gegenwart,de,"Rilke, Rainer Maria",118601024,,,0,0,0,0
 qd,tg37.0,König Manfred,de,"Roeber, Friedrich",116579757,,,0,0,0,0
@@ -355,10 +355,10 @@ qd,trwt.0,"Faustine, der weibliche Faust",de,"Schäfer, Wilhelm",,,,0,1898,0,0
 qd,tv5b.0,Das Mirakel,de,"Scheerbart, Paul",118606816,,,0,1904,0,0
 qd,tv5k.0,Der vornehme Räuberhauptmann,de,"Scheerbart, Paul",118606816,,,0,1904,0,0
 qd,tv5t.0,Das Gift,de,"Scheerbart, Paul",118606816,,,0,1904,0,0
-qd,tv63.0,Der Regierungswechsel,de,"Scheerbart, Paul",118606816,,,0,0,0,0
-qd,tv65.0,Die Welt geht unter!,de,"Scheerbart, Paul",118606816,,,0,0,0,0
 qd,tv6f.0,Die Urgrossmutter,de,"Scheerbart, Paul",118606816,,,0,0,0,0
 qd,tv6h.0,Lachende Gespenster,de,"Scheerbart, Paul",118606816,,,0,0,0,0
+qd,tv63.0,Der Regierungswechsel,de,"Scheerbart, Paul",118606816,,,0,0,0,0
+qd,tv65.0,Die Welt geht unter!,de,"Scheerbart, Paul",118606816,,,0,0,0,0
 qd,tvb0.0,Okurirasûna,de,"Scheerbart, Paul",118606816,,,0,0,0,0
 qd,tvbm.0,Der Herr vom Jenseits,de,"Scheerbart, Paul",118606816,,,0,1904,0,0
 qd,tvc5.0,"Der alte Petrus, oder Im Himmel spukt es auch",de,"Scheerbart, Paul",118606816,,,0,0,0,0
@@ -377,17 +377,13 @@ qd,twt3.0,Maria Stuart,de,"Schiller, Friedrich",118607626,,,1800,0,0,0
 qd,tx4z.0,"Don Carlos, Infant von Spanien",de,"Schiller, Friedrich",118607626,,,1787,1787,1787,0
 qd,txtj.0,Wallensteins Lager,de,"Schiller, Friedrich",118607626,,,1798,1798,0,0
 qd,tz0c.0,Wilhelm Tell,de,"Schiller, Friedrich",118607626,,,1804,0,0,0
-qd,tz39.0,Kabale und Liebe,de,"Schiller, Friedrich",118607626,,,1783,0,0,0
 qd,tz6r.0,Die Piccolomini,de,"Schiller, Friedrich",118607626,,,1798,1798,0,0
 qd,tz9d.0,Die Jungfrau von Orleans,de,"Schiller, Friedrich",118607626,,,1801,0,0,0
+qd,tz39.0,Kabale und Liebe,de,"Schiller, Friedrich",118607626,,,1783,0,0,0
 qd,tzgk.0,Die Verschwörung des Fiesco zu Genua,de,"Schiller, Friedrich",118607626,,,1782,0,0,0
 qd,v0fv.0,Die Räuber,de,"Schiller, Friedrich",118607626,,,1780,1781,1882,0
 qd,v0nx.0,Wallensteins Tod,de,"Schiller, Friedrich",118607626,,,1799,1799,0,0
-qd,v183.0,Der neue Doktor Faust,de,"Schink, Johann Friedrich",118607774,,,0,0,0,0
-qd,v186.0,Hanswurst von Salzburg mit dem hölzernen Gat,de,"Schink, Johann Friedrich",118607774,,,0,0,0,0
-qd,v18g.0,Meister Oelze,de,"Schlaf, Johannes",118607871,,,1892,0,0,0
 qd,v1sm.0,Jon,de,"Schlegel, August Wilhelm",118607960,,,0,0,0,0
-qd,v341.0,Alarkos,de,"Schlegel, Friedrich",118607987,,,1801,1802,1802,0
 qd,v3mq.0,Canut,de,"Schlegel, Johann Elias",118608002,,,1746,1746,0,0
 qd,v3mw.0,Die stumme Schönheit,de,"Schlegel, Johann Elias",118608002,,,1747,1747,1754,0
 qd,v3mx.0,Der geschäftige Müßiggänger,de,"Schlegel, Johann Elias",118608002,,,1741,1743,0,0
@@ -405,6 +401,10 @@ qd,v3vb.0,Liebelei,de,"Schnitzler, Arthur",118609807,,,0,0,0,0
 qd,v3vp.0,Anatol,de,"Schnitzler, Arthur",118609807,,,0,0,0,0
 qd,v3vz.0,Das weite Land,de,"Schnitzler, Arthur",118609807,,,1910,1910,1911,0
 qd,v3w3.0,Reigen,de,"Schnitzler, Arthur",118609807,,,0,0,0,0
+qd,v18g.0,Meister Oelze,de,"Schlaf, Johannes",118607871,,,1892,0,0,0
+qd,v183.0,Der neue Doktor Faust,de,"Schink, Johann Friedrich",118607774,,,0,0,0,0
+qd,v186.0,Hanswurst von Salzburg mit dem hölzernen Gat,de,"Schink, Johann Friedrich",118607774,,,0,0,0,0
+qd,v341.0,Alarkos,de,"Schlegel, Friedrich",118607987,,,1801,1802,1802,0
 qd,v401.0,Alfonso und Estrella,de,"Schober, Franz von",116849436,,,1822,0,1854,0
 qd,v409.0,Der Raub der Sabinerinnen,de,"Schönthan, Franz und Paul von",116889292,,,1883,0,1884,0
 qd,vhgn.0,Der Vetter in Lissabon,de,"Schröder, Friedrich Ludwig",118610813,,,0,0,0,0
@@ -416,7 +416,6 @@ qd,vmxv.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Heraus
 qd,vn0c.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 3, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
 qd,vn0h.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
 qd,vn0r.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 3, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
-qd,vn11.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
 qd,vn1b.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
 qd,vn1q.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
 qd,vn1w.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
@@ -426,14 +425,15 @@ qd,vn2s.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Heraus
 qd,vn3b.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn3t.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn3v.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 3, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
-qd,vn41.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
 qd,vn4h.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn4q.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
-qd,vn59.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 3, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn5n.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Tieck, Ludwig",12989432X,0,0,0,0
+qd,vn7q.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn11.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn41.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn59.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 3, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn60.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Gelbcke, Ferdinand Adolf",1023873885,0,0,0,0
 qd,vn79.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn7q.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vn90.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 1, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vnbs.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 2, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
 qd,vncw.0,"William Shakespeare: Sämtliche Werke in vier Bänden. Band 4, Herausgegeben von Anselm Schlösser. Berlin: Aufbau, 1975.",de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
@@ -457,9 +457,9 @@ qd,vrdj.0,Doktor und Apotheker,de,"Stephanie, Johann Gottlieb (der Jüngere)",11
 qd,vrdk.0,Die Entführung aus dem Serail,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,0,0,0
 qd,vrds.0,Die Liebe im Narrenhause,de,"Stephanie, Johann Gottlieb (der Jüngere)",119545799,,,0,1788,0,0
 qd,w3zd.0,Julie,de,"Sturz, Helfrich Peter",118619756,,,0,1767,1768,0
-qd,w407.0,Heimat,de,"Sudermann, Hermann",118619853,,,0,0,0,0
 qd,w40m.0,Der Bettler von Syrakus,de,"Sudermann, Hermann",118619853,,,0,1911,1911,0
 qd,w40n.0,Die Ehre,de,"Sudermann, Hermann",118619853,,,0,0,0,0
+qd,w407.0,Heimat,de,"Sudermann, Hermann",118619853,,,0,0,0,0
 qd,wbvk.0,Die Lokalbahn,de,"Thoma, Ludwig",118622072,,,1902,1902,1902,0
 qd,wc0g.0,Magdalena,de,"Thoma, Ludwig",118622072,,,0,0,0,0
 qd,wc9p.0,Die Medaille,de,"Thoma, Ludwig",118622072,,,1901,0,0,0
@@ -488,11 +488,6 @@ qd,wzps.0,Parsifal,de,"Wagner, Richard",118594117,,,1877,1877,1882,0
 qd,wzpz.0,Lohengrin,de,"Wagner, Richard",118594117,,,1846,1850,1850,0
 qd,wzq0.0,Der fliegende Holländer,de,"Wagner, Richard",118594117,,,1841,0,1843,0
 qd,wzq9.0,Tristan und Isolde,de,"Wagner, Richard",118594117,,,0,0,0,0
-qd,x34j.0,Frühlings Erwachen,de,"Wedekind, Frank",118629867,,,0,0,0,0
-qd,x37n.0,Musik,de,"Wedekind, Frank",118629867,,,0,0,0,0
-qd,x37q.0,Franziska. Ein modernes Mysterium in fünf Akten,de,"Wedekind, Frank",118629867,,,1911,1912,1912,0
-qd,x390.0,Hidalla oder Sein und Haben,de,"Wedekind, Frank",118629867,,,0,0,0,0
-qd,x39r.0,Der Kammersänger,de,"Wedekind, Frank",118629867,,,0,0,0,0
 qd,x3b4.0,König Nicolo oder So ist das Leben,de,"Wedekind, Frank",118629867,,,1901,1902,1902,0
 qd,x3bf.0,Die Büchse der Pandora,de,"Wedekind, Frank",118629867,,,0,0,0,0
 qd,x3bs.0,Fritz Schwigerling oder Der Liebestrank,de,"Wedekind, Frank",118629867,,,1892,0,0,0
@@ -501,7 +496,6 @@ qd,x3cv.0,Die Zensur,de,"Wedekind, Frank",118629867,,,0,0,0,0
 qd,x3d6.0,Der Marquis von Keith,de,"Wedekind, Frank",118629867,,,1900,0,0,0
 qd,x3f6.0,Erdgeist,de,"Wedekind, Frank",118629867,,,0,0,0,0
 qd,x3zz.0,Der Dorfbarbier,de,"Weidmann, Paul",119497921,,,0,0,0,0
-qd,x400.0,Johann Faust,de,"Weidmann, Paul",119497921,,,1775,1775,1775,0
 qd,x4gj.0,Atreus und Thyest,de,"Weiße, Christian Felix",118630563,,,1766,1766,1766,0
 qd,x4q9.0,Die Jagd,de,"Weiße, Christian Felix",118630563,,,1769,0,0,0
 qd,x4vf.0,Das Manuscript,de,"Weißenthurn, Johanna von",116752505,,,0,0,0,0
@@ -510,7 +504,6 @@ qd,x4vp.0,Welcher ist der Bräutigam,de,"Weißenthurn, Johanna von",116752505,,,
 qd,x4vq.0,"Johann, Herzog von Finnland",de,"Weißenthurn, Johanna von",116752505,,,0,0,0,0
 qd,x4vx.0,Die Schwestern St. Janvier,de,"Weißenthurn, Johanna von",116752505,,,0,0,0,0
 qd,x5bv.0,Der vierundzwanzigste Februar,de,"Werner, Zacharias",118767208,,,1808,1815,1810,0
-qd,x82c.0,Hänsel und Gretel,de,"Wette, Adelheid",119514125,,,1890,0,0,0
 qd,x8cf.0,Maikäfer-Komödie,de,"Widmann, Joseph Viktor",118632302,,,1896,1897,1942,0
 qd,x8fs.0,Lady Johanna Gray,de,"Wieland, Christoph Martin",118632477,,,1758,1758,1758,0
 qd,x8hc.0,Klementina von Porretta,de,"Wieland, Christoph Martin",118632477,,,1759,1760,0,0
@@ -520,8 +513,15 @@ qd,x8mw.0,Gracchus der Volkstribun,de,"Wilbrandt, Adolf von",118807250,,,0,1872,
 qd,x8nh.0,Die Quitzows,de,"Wildenbruch, Ernst von",118771760,,,0,1888,1888,0
 qd,x8np.0,Die Haubenlerche,de,"Wildenbruch, Ernst von",118771760,,,0,0,0,0
 qd,x8nq.0,Die Karolinger,de,"Wildenbruch, Ernst von",118771760,,,0,1881,1881,0
+qd,x9jv.0,Der Vampyr,de,"Wohlbrück, Wilhelm August",124953271,,,0,0,0,0
+qd,x34j.0,Frühlings Erwachen,de,"Wedekind, Frank",118629867,,,0,0,0,0
+qd,x37n.0,Musik,de,"Wedekind, Frank",118629867,,,0,0,0,0
+qd,x37q.0,Franziska. Ein modernes Mysterium in fünf Akten,de,"Wedekind, Frank",118629867,,,1911,1912,1912,0
+qd,x39r.0,Der Kammersänger,de,"Wedekind, Frank",118629867,,,0,0,0,0
+qd,x82c.0,Hänsel und Gretel,de,"Wette, Adelheid",119514125,,,1890,0,0,0
 qd,x90m.0,Armut,de,"Wildgans, Anton",118632841,,,1914,0,0,0
 qd,x90s.0,Dies irae,de,"Wildgans, Anton",118632841,,,1918,1918,1919,0
 qd,x90t.0,In Ewigkeit Amen,de,"Wildgans, Anton",118632841,,,1912,0,0,0
-qd,x9jv.0,Der Vampyr,de,"Wohlbrück, Wilhelm August",124953271,,,0,0,0,0
+qd,x390.0,Hidalla oder Sein und Haben,de,"Wedekind, Frank",118629867,,,0,0,0,0
+qd,x400.0,Johann Faust,de,"Weidmann, Paul",119497921,,,1775,1775,1775,0
 qd,xknr.0,Abellino,de,"Zschokke, Heinrich",118637266,,,1793,0,0,0
