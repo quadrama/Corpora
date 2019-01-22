@@ -1,14 +1,14 @@
 corpus,drama,documentTitle,language,Name,Pnd,Translator.Name,Translator.Pnd,Date.Written,Date.Printed,Date.Premiere,Date.Translation
-qd,11d11.0,Faust. Der Tragödie zweiter Teil,de,"Goethe, Johann Wolfgang",,,,1831,1832,1854,0
+qd,11d11.0,Faust. Der Tragödie zweiter Teil,de,"Goethe, Johann Wolfgang",118540238,,,1831,1832,1854,0
 qd,11d2m.0,Torquato Tasso,de,"Goethe, Johann Wolfgang",118540238,,,1788,1790,1807,0
 qd,11f78.0,Iphigenie auf Tauris,de,"Goethe, Johann Wolfgang",118540238,,,1786,1787,1800,0
 qd,11f81.0,Clavigo,de,"Goethe, Johann Wolfgang",118540238,,,1774,1774,1774,0
 qd,11f9k.0,Der Bürgergeneral,de,"Goethe, Johann Wolfgang",118540238,,,1793,1793,1793,0
 qd,11fzp.0,Die Laune des Verliebten,de,"Goethe, Johann Wolfgang",118540238,,,1768,1806,1779,0
 qd,11g1d.0,Götz von Berlichingen mit der eisernen Hand,de,"Goethe, Johann Wolfgang",118540238,,,0,1773,0,0
-qd,11g3h.0,Die natürliche Tochter,de,"Goethe, Johann Wolfgang",,,,1803,1804,1803,0
+qd,11g3h.0,Die natürliche Tochter,de,"Goethe, Johann Wolfgang",118540238,,,1803,1804,1803,0
 qd,11g5f.0,Der Großkophta,de,"Goethe, Johann Wolfgang",118540238,,,1791,1792,1791,0
-qd,11g5g.0,Des Epimenides Erwachen,de,"Goethe, Johann Wolfgang",,,,0,0,0,0
+qd,11g5g.0,Des Epimenides Erwachen,de,"Goethe, Johann Wolfgang",118540238,,,0,0,0,0
 qd,11g5q.0,Faust,de,"Goethe, Johann Wolfgang",118540238,,,1806,1808,1819,0
 qd,11g9w.0,Egmont,de,"Goethe, Johann Wolfgang",118540238,,,1787,1788,1791,0
 qd,11gn9.0,Satyros oder der vergötterte Waldteufel,de,"Goethe, Johann Wolfgang",118540238,,,0,0,0,0
@@ -19,10 +19,10 @@ qd,11hb1.0,Die Mitschuldigen,de,"Goethe, Johann Wolfgang",118540238,,,1769,1909,
 qd,11hb5.0,Proserpina,de,"Goethe, Johann Wolfgang",118540238,,,1778,1778,1778,0
 qd,11hdv.0,Stella,de,"Goethe, Johann Wolfgang",118540238,,,1776,1776,1776,0
 qd,12675.0,Die Nase des Michelangelo,de,"Ball, Hugo",118506234,,,0,0,0,0
-qd,jkhx.0,Der gefesselte Prometheus,de,Aischylos,118500856,,,0,0,0,0
-qd,jkj1.0,Agamemnon,de,Aischylos,118500856,,,0,0,0,0
-qd,jkj1.1,Die Eumeniden,de,Aischylos,118500856,,,0,0,0,0
-qd,jkj1.2,Die Grabesspenderinnen,de,Aischylos,118500856,,,0,0,0,0
+qd,jkhx.0,Der gefesselte Prometheus,de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
+qd,jkj1.0,Agamemnon,de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
+qd,jkj1.1,Die Eumeniden,de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
+qd,jkj1.2,Die Grabesspenderinnen,de,Aischylos,118500856,"Droysen, Johann Gustav",188028331,0,0,0,0
 qd,jkjb.0,Im Suff,de,"Alberti, Konrad",116009926,,,1890,1890,0,0
 qd,jkjf.0,Brot!,de,"Alberti, Konrad",116009926,,,1888,1888,0,0
 qd,jn5z.0,Das vierte Gebot,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
@@ -31,9 +31,9 @@ qd,jn6f.0,Die Kreuzelschreiber,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn6k.0,Der Gwissenswurm,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
 qd,jn6r.0,Heimg'funden,de,"Anzengruber, Ludwig",11850357X,,,1885,1885,1885,0
 qd,jn73.0,Der Pfarrer von Kirchfeld,de,"Anzengruber, Ludwig",11850357X,,,0,0,0,0
-qd,k1f7.0,Die Vögel,de,Aristophanes,118503987,,,0,0,0,0
-qd,k1fb.0,Die Wolken,de,Aristophanes,118503987,,,0,0,0,0
-qd,k1ff.0,Lysistrate,de,Aristophanes,118503987,,,0,0,0,0
+qd,k1f7.0,Die Vögel,de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
+qd,k1fb.0,Die Wolken,de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
+qd,k1ff.0,Lysistrate,de,Aristophanes,118503987,"Seeger, Ludwig",127409386,0,0,0,0
 qd,k4xx.0,Marino Caboga,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
 qd,k59h.0,Jerusalem,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
 qd,k77x.0,Halle,de,"Arnim, Ludwig Achim von",118504177,,,0,0,0,0
@@ -392,44 +392,44 @@ qd,v3w3.0,Reigen,de,"Schnitzler, Arthur",118609807,,,0,0,0,0
 qd,v401.0,Alfonso und Estrella,de,"Schober, Franz von",116849436,,,1822,0,1854,0
 qd,v409.0,Der Raub der Sabinerinnen,de,"Schönthan, Franz und Paul von",116889292,,,1883,0,1884,0
 qd,vhgn.0,Der Vetter in Lissabon,de,"Schröder, Friedrich Ludwig",118610813,,,0,0,0,0
-qd,vmvc.0,Julius Cäsar,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vmw0.0,König Richard II.,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vmw8.0,König Heinrich VI. Dritter Teil,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vmwh.0,Was ihr wollt,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vmxv.0,Viel Lärmen um nichts,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn0c.0,König Heinrich VI. Erster Teil,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn0h.0,Der Sturm,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn0r.0,Titus Andronicus,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn11.0,Ein Sommernachtstraum,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn1b.0,Wie es euch gefällt,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn1q.0,Timon von Athen,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn1w.0,Der Kaufmann von Venedig,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn2c.0,Das Wintermärchen,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn2f.0,Coriolanus,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn2s.0,Macbeth,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn3b.0,Die lustigen Weiber von Windsor,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn3t.0,"Ende gut, alles gut",de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn3v.0,König Heinrich IV. Zweiter Teil,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn41.0,Cymbeline,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn4h.0,Der Widerspenstigen Zähmung,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn4q.0,Troilus und Cressida,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn59.0,König Heinrich VIII.,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn5n.0,Perikles,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn60.0,Die beiden edlen Vettern,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn79.0,Die beiden Veroneser,de,,,,,0,0,0,0
-qd,vn7q.0,Othello,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vn90.0,Die Komödie der Irrungen,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnbs.0,Maß für Maß,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vncw.0,Hamlet. Prinz von Dänemark,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnd5.0,Liebes Leid und Lust,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vndf.0,Romeo und Julia,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnf1.0,König Heinrich V.,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnfd.0,König Richard III.,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnft.0,Antonius und Cleopatra,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnfz.0,König Lear,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnh9.0,König Heinrich VI. Zweiter Teil,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnj5.0,König Heinrich IV. Erster Teil,de,"Shakespeare, William",118613723,,,0,0,0,0
-qd,vnjn.0,König Johann,de,"Shakespeare, William",118613723,,,0,0,0,0
+qd,vmvc.0,Julius Cäsar,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vmw0.0,König Richard II.,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vmw8.0,König Heinrich VI. Dritter Teil,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vmwh.0,Was ihr wollt,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vmxv.0,Viel Lärmen um nichts,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn0c.0,König Heinrich VI. Erster Teil,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn0h.0,Der Sturm,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn0r.0,Titus Andronicus,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn11.0,Ein Sommernachtstraum,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn1b.0,Wie es euch gefällt,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn1q.0,Timon von Athen,de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn1w.0,Der Kaufmann von Venedig,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn2c.0,Das Wintermärchen,de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn2f.0,Coriolanus,de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn2s.0,Macbeth,de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn3b.0,Die lustigen Weiber von Windsor,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn3t.0,"Ende gut, alles gut",de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn3v.0,König Heinrich IV. Zweiter Teil,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vn41.0,Cymbeline,de,"Shakespeare, William",118613723,"Tieck, Dorothea",11737606X,0,0,0,0
+qd,vn4h.0,Der Widerspenstigen Zähmung,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn4q.0,Troilus und Cressida,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn59.0,König Heinrich VIII.,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn5n.0,Perikles,de,"Shakespeare, William",118613723,"Tieck, Ludwig",12989432X,0,0,0,0
+qd,vn60.0,Die beiden edlen Vettern,de,"Shakespeare, William",118613723,"Gelbcke, Ferdinand Adolf",1023873885,0,0,0,0
+qd,vn79.0,Die beiden Veroneser,de,"Shakespeare, William",118613723,,,0,0,0,0
+qd,vn7q.0,Othello,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vn90.0,Die Komödie der Irrungen,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vnbs.0,Maß für Maß,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vncw.0,Hamlet. Prinz von Dänemark,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnd5.0,Liebes Leid und Lust,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vndf.0,Romeo und Julia,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnf1.0,König Heinrich V.,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnfd.0,König Richard III.,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnft.0,Antonius und Cleopatra,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vnfz.0,König Lear,de,"Shakespeare, William",118613723,"Baudissin, Wolf Graf von",1075372348,0,0,0,0
+qd,vnh9.0,König Heinrich VI. Zweiter Teil,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnj5.0,König Heinrich IV. Erster Teil,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
+qd,vnjn.0,König Johann,de,"Shakespeare, William",118613723,"Schlegel, August Wilhelm",118607960,0,0,0,0
 qd,vnmx.0,Doctor Johannes Faust,de,"Simrock, Karl",118614576,,,0,1846,0,0
 qd,vnn3.0,Doktor Faust,de,"Soden, Julius von",118852027,,,0,1797,0,0
 qd,vpv1.0,Fidelio,de,"Sonnleithner, Joseph Ferdinand von",104332042,,,0,0,0,0
